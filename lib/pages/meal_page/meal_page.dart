@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:recipe_app/pages/utils/recipe.dart';
-import 'package:recipe_app/pages/utils/routes.dart';
+import 'package:recipe_app/header.dart';
 
 class MealPage extends StatefulWidget {
   const MealPage({super.key});

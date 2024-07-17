@@ -1,10 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:recipe_app/pages/detail_page/detail_page.dart';
-import 'package:recipe_app/pages/favorite_page/favorite_page.dart';
-import 'package:recipe_app/pages/home_page/home_page.dart';
-import 'package:recipe_app/pages/meal_page/meal_page.dart';
-import 'package:recipe_app/pages/recipe_page/recipe_page.dart';
-import 'package:recipe_app/pages/utils/routes.dart';
+import 'header.dart';
 
 void main() {
   runApp(

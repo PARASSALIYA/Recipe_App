@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:recipe_app/pages/utils/recipe.dart';
+import 'package:recipe_app/header.dart';
 
 class RecipePage extends StatefulWidget {
   const RecipePage({super.key});

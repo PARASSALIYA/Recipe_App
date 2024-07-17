@@ -1,0 +1,10 @@
+export 'package:flutter/material.dart';
+export 'package:recipe_app/pages/utils/recipe.dart';
+export 'package:recipe_app/pages/utils/routes.dart';
+export 'package:recipe_app/pages/meal_page/meal_page.dart';
+export 'package:recipe_app/pages/home_page/home_page.dart';
+export 'package:recipe_app/pages/recipe_page/recipe_page.dart';
+export 'package:recipe_app/pages/detail_page/detail_page.dart';
+export 'package:recipe_app/pages/favorite_page/favorite_page.dart';
+export 'package:recipe_app/pages/splash_screen/splash_screen.dart';
+export 'package:recipe_app/pages/home_page/widgets/home_page.dart';

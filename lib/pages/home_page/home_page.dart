@@ -1,8 +1,4 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import 'package:recipe_app/pages/home_page/widgets/home_page.dart';
-import 'package:recipe_app/pages/utils/recipe.dart';
-import 'package:recipe_app/pages/utils/routes.dart';
+import 'package:recipe_app/header.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

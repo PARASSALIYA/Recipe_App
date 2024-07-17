@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:recipe_app/pages/utils/recipe.dart';
-
-import '../utils/routes.dart';
+import 'package:recipe_app/header.dart';
 
 class DetailPage extends StatefulWidget {
   const DetailPage({super.key});
