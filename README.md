@@ -1,16 +1,22 @@
-# recipe_app
+# Flutter Recipe App
 
-A new Flutter project.
+A beautiful and interactive Recipe App built with Flutter, allowing users to browse multiple recipes, add them to their meals, and save their favorite recipes. The app features an attractive UI to enhance user engagement and provides seamless navigation through different functionalities.
 
+## Features
+
+- **HomePage**: Browse through a variety of recipes.
+- **DetailPage**: View detailed information about a particular recipe.
+- **RecipePage**: Filter recipes by tags, meal type, preparation time, and cooking time.
+- **MealPage**: Add recipes to your meal plan and view them on the meal page.
+- **FavouritePage**: Save and view your favorite recipes.
+- **Drawer**: Access user details and navigate through the app.
 
 
 ## OUTPUT:
 
 ###Preview:
 
-
 https://github.com/user-attachments/assets/229b8560-ceda-4d11-93a3-01e28368e7e4
-
 
 ### Screenshorts:
 
