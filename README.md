@@ -18,7 +18,7 @@ A beautiful and interactive Recipe App built with Flutter, allowing users to bro
 
 https://github.com/user-attachments/assets/229b8560-ceda-4d11-93a3-01e28368e7e4
 
-### Screenshorts:
+### Screenshoots:
 
 <img src= "https://github.com/user-attachments/assets/bbac3f45-0fc5-4b3e-ac88-944807518420" width="400px">
 
